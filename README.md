@@ -3,8 +3,6 @@
 <h1 align="center">Hi 👋, I'm Jamie</h1>
 <h3 align="center">A Quantitative Research Associate working in fishery and ecosystem science and management.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jamie-behan" alt="jamie-behan" /></a> </p>
-
 - 🔭 I’m currently working on **Developing an user interface for visualizing an integrated ecosystem assessment focused on characterizing the status and trends of the fishery ecosystem in Maine’s coastal waters.**
 
 - :round_pushpin: ArcGIS Pro Map Portfolio [https://jamiebehan.crevado.com/](https://jamiebehan.crevado.com/)
