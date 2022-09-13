@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Jamie</h1>
 <h3 align="center">A Quantitative Research Associate working in fishery and ecosystem science and management.</h3>
 
