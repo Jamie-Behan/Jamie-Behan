@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jamie</h1>
-<h3 align="center">A Quantitative Research Associate working in fishery and ecosystem science and management.</h3>
+<h3 align="center">A Quantitative Research Associate working in ecosystem-based fisheries science and management.</h3>
 
 - 🔭 I’m currently working on **Developing an user interface for visualizing an integrated ecosystem assessment focused on characterizing the status and trends of the fishery ecosystem in Maine’s coastal waters.**
 
