@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Jamie</h1>
 <h3 align="center">A Quantitative Research Associate working in ecosystem-based fisheries science and management.</h3>
 
-- 🔭 I’m currently working on **Developing an user interface for visualizing an integrated ecosystem assessment focused on characterizing the status and trends of the fishery ecosystem in Maine’s coastal waters.**
+- 🔭 I’m currently working on:
+  1) **Developing an user interface for visualizing an integrated ecosystem assessment focused on characterizing the status and trends of the fishery ecosystem in Maine’s coastal waters.**
+  2) **Characterizing Atlantic Cod Discards in the Maine Lobster Fishery for use in Stock Assessment**
 
 - :round_pushpin: ArcGIS Pro Map Portfolio [https://jamiebehan.crevado.com/](https://jamiebehan.crevado.com/)
 
-- 📫 How to reach me **jbehan@gmri.org**
+- 📫 How to reach me **jamie.behan@maine.edu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
